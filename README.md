@@ -1,7 +1,3 @@
-Here’s the organized version for GitHub:
-
----
-
 # **Tech Fundings: Data Dashboard for Investment Analysis**
 
 ## **Executive Summary**  
@@ -37,7 +33,3 @@ A key challenge in the Tech Fundings project was ensuring data accuracy and cons
 - Learned how to create actionable and clear data visualizations that support investment decision-making.  
 - Improved ability to identify key trends and patterns in large-scale financial data.  
 - Gained expertise in optimizing Power BI dashboards to handle large datasets while maintaining performance.
-
----
-
-This version is well-structured for GitHub, with clear sections for easy navigation and understanding. Let me know if you need further refinements!
