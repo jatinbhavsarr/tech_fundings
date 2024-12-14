@@ -1,5 +1,6 @@
-
 # Tech Fundings: Data Dashboard for Investment Analysis
+
+---
 
 ## Executive Summary
 The Tech Fundings project presents an interactive Power BI dashboard designed to analyze and visualize investment trends in the technology sector. By integrating funding data across various companies, industries, and funding stages, this dashboard helps investors and startups track trends, identify high-growth opportunities, and optimize investment strategies based on historical performance.
